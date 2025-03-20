@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Core stories/Hospital.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Hospital"
             }
           },
           {
@@ -241,17 +241,23 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "auto-moc:AutoMOC": false,
+      "color-cycler:Cycle accent color": false,
+      "custom-sort:Toggle custom sorting": false,
+      "flowershow:Publish with Flowershow": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "ef1426ba998c084d",
+  "active": "b6c9c8d4cd19183c",
   "lastOpenFiles": [
+    "Places/Needs/Hospital.md",
+    "Places/Needs/City Hall.md",
     "README.md",
     "Tags",
     "Core stories/Beginnings.md",
     "Core stories/Covenant.md",
     "Core stories/Hospital.md",
-    "Places/Needs/City Hall.md",
     "Places/Regions/Outer Bends.md",
     "Places/Tree of Life.md",
     "Keyboard Shot cuts.md",
@@ -261,7 +267,6 @@
     "SCP-3008 - SCP Foundation.md",
     "Vault.md",
     "Places/Places.md",
-    "Places/Needs/Hospital.md",
     "Files in Overmall.md",
     "Files.md",
     "READMEOvermall.md",

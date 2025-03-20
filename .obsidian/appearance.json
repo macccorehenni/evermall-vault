@@ -1,6 +1,6 @@
 {
   "cssTheme": "Fancy-a-Story",
-  "interfaceFontFamily": "Bahnschrift",
+  "interfaceFontFamily": "Bahnschrift,GNU Unifont",
   "theme": "moonstone",
   "accentColor": "#efb9ea",
   "showRibbon": true,
