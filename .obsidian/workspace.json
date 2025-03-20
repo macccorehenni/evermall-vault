@@ -8,45 +8,44 @@
         "type": "tabs",
         "children": [
           {
-            "id": "23c0429aea3f4c64",
+            "id": "b6c9c8d4cd19183c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           },
           {
-            "id": "6a4e1a3cc1f04d5d",
+            "id": "f798c2ceb0872a6d",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://chatgpt.com/c/67d270be-92d4-800b-af45-08931a50e296",
-                "title": "Covenant of Evermall Summary",
+                "url": "https://github.com/macccorehenni/evermall-vault",
+                "title": "macccorehenni/evermall-vault",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Covenant of Evermall Summary"
-            }
-          },
-          {
-            "id": "ce48b8da42935a54",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://github.com/macccorehenni/evermall-vault/tree/def",
-                "title": "GitHub - macccorehenni/evermall-vault",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "GitHub - macccorehenni/evermall-vault"
+              "title": "macccorehenni/evermall-vault"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             }
           },
           {
-            "id": "d24092afcaf98958",
+            "id": "7d60d115da7ab22d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -193,8 +192,8 @@
             "state": {
               "type": "juggl_nodes",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
             }
           },
           {
@@ -208,27 +207,7 @@
             }
           },
           {
-            "id": "523f8c19d89f168c",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {},
-              "icon": "ag-node-list",
-              "title": "Juggl nodes"
-            }
-          },
-          {
-            "id": "024502c65eaa1588",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {},
-              "icon": "ag-style",
-              "title": "Juggl style"
-            }
-          },
-          {
-            "id": "63b981086aece4c3",
+            "id": "835f4d14396be093",
             "type": "leaf",
             "state": {
               "type": "quiet-outline",
@@ -238,7 +217,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -256,40 +235,38 @@
       "auto-moc:AutoMOC": false,
       "color-cycler:Cycle accent color": false,
       "custom-sort:Toggle custom sorting": false,
-      "flowershow:Publish with Flowershow": false
+      "flowershow:Publish with Flowershow": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "ce48b8da42935a54",
+  "active": "b6c9c8d4cd19183c",
   "lastOpenFiles": [
     "new.md",
-    "Laws/Education requirements.md",
-    "Laws/Laws.md",
-    "Core stories/CS4 Education.md",
-    "Laws/Covenant.md",
-    "Laws",
+    "README.md",
+    "Core stories/Beginnings.md",
+    "Core stories/Covenant.md",
     "Core stories/Hospital.md",
-    "Core stories/Core stories.md",
-    "Places/Education/Education.md",
-    "Places/Education",
-    "Places/Needs/Hospital.md",
-    "Places/Regions/Regions.md",
     "Places/Needs/City Hall.md",
     "Places/Regions/Outer Bends.md",
-    "Core stories/Covenant.md",
-    "README.md",
-    "Tags",
-    "Core stories/Beginnings.md",
     "Places/Tree of Life.md",
     "Keyboard Shot cuts.md",
     "Timeline.md",
+    "Core stories/Core stories.md",
     "Places/Needs/READMENeeds.md",
     "SCP-3008 - SCP Foundation.md",
     "Vault.md",
     "Places/Places.md",
+    "Places/Needs/Hospital.md",
     "Files in Overmall.md",
     "Files.md",
     "READMEOvermall.md",
     "_Index_of_Overmall.md",
+    "Core stories/_Index_of_Core stories.md",
+    "Places/Regions/READMERegions.md",
+    "Places/READMEPlaces.md",
+    "Core stories/READMECore stories.md",
+    "Places/Needs/_Index_of_Needs.md",
+    "Places/Regions/_Index_of_Regions.md",
     "Places/Regions"
   ]
 }
