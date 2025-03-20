@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -99,7 +99,7 @@
             }
           },
           {
-            "id": "7d60d115da7ab22d",
+            "id": "4ffab9a45f676403",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -239,10 +239,83 @@
       "github-sync:Sync with Remote": false
     }
   },
+  "floating": {
+    "id": "e30330b851f0bf80",
+    "type": "floating",
+    "children": [
+      {
+        "id": "61c27d94aa32b8e9",
+        "type": "window",
+        "children": [
+          {
+            "id": "2871dfcfb0d18211",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a1886bfe33526c5c",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://github.com/settings/tokens/new?scopes=repo",
+                    "title": "Confirm access",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Confirm access"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 117,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "f8a760ef598d0164",
+        "type": "window",
+        "children": [
+          {
+            "id": "aeaf1c0e613b772a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "49d325720fe8f29e",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://github.com/settings/personal-access-tokens",
+                    "title": "Fine-grained Personal Access Tokens",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Fine-grained Personal Access Tokens"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 117,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "b6c9c8d4cd19183c",
   "lastOpenFiles": [
-    "new.md",
+    "newfile.md",
     "README.md",
+    "new.md",
     "Core stories/Beginnings.md",
     "Core stories/Covenant.md",
     "Core stories/Hospital.md",
@@ -266,7 +339,6 @@
     "Places/READMEPlaces.md",
     "Core stories/READMECore stories.md",
     "Places/Needs/_Index_of_Needs.md",
-    "Places/Regions/_Index_of_Regions.md",
     "Places/Regions"
   ]
 }
