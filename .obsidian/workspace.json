@@ -30,8 +30,33 @@
               "icon": "globe-2",
               "title": "Covenant of Evermall Summary"
             }
+          },
+          {
+            "id": "a592fe7b0c93ed36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "new.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "new"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -244,8 +269,9 @@
       "flowershow:Publish with Flowershow": false
     }
   },
-  "active": "23c0429aea3f4c64",
+  "active": "a592fe7b0c93ed36",
   "lastOpenFiles": [
+    "new.md",
     "Laws/Education requirements.md",
     "Laws/Laws.md",
     "Core stories/CS4 Education.md",
@@ -274,7 +300,6 @@
     "Files.md",
     "READMEOvermall.md",
     "_Index_of_Overmall.md",
-    "Core stories/_Index_of_Core stories.md",
     "Places/Regions"
   ]
 }
