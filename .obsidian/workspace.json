@@ -32,27 +32,17 @@
             }
           },
           {
-            "id": "a592fe7b0c93ed36",
+            "id": "ce48b8da42935a54",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "webviewer",
               "state": {
-                "file": "new.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "url": "https://github.com/macccorehenni/evermall-vault/tree/def",
+                "title": "GitHub - macccorehenni/evermall-vault",
+                "mode": "webview"
               },
-              "icon": "lucide-file",
-              "title": "new"
+              "icon": "globe-2",
+              "title": "GitHub - macccorehenni/evermall-vault"
             }
           }
         ],
@@ -269,7 +259,7 @@
       "flowershow:Publish with Flowershow": false
     }
   },
-  "active": "a592fe7b0c93ed36",
+  "active": "ce48b8da42935a54",
   "lastOpenFiles": [
     "new.md",
     "Laws/Education requirements.md",
