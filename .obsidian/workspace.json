@@ -99,7 +99,7 @@
             }
           },
           {
-            "id": "7d60d115da7ab22d",
+            "id": "8704fb6188860d45",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -192,8 +192,8 @@
             "state": {
               "type": "juggl_nodes",
               "state": {},
-              "icon": "ag-node-list",
-              "title": "Juggl nodes"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -207,17 +207,27 @@
             }
           },
           {
-            "id": "835f4d14396be093",
+            "id": "523f8c19d89f168c",
             "type": "leaf",
             "state": {
-              "type": "quiet-outline",
+              "type": "juggl_nodes",
               "state": {},
-              "icon": "lines-of-text",
-              "title": "Quiet Outline"
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "024502c65eaa1588",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -231,17 +241,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian42-brat:BRAT": false,
-      "auto-moc:AutoMOC": false,
-      "color-cycler:Cycle accent color": false,
-      "custom-sort:Toggle custom sorting": false,
-      "flowershow:Publish with Flowershow": false,
-      "github-sync:Sync with Remote": false
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b6c9c8d4cd19183c",
+  "active": "ef1426ba998c084d",
   "lastOpenFiles": [
     "README.md",
+    "Tags",
     "Core stories/Beginnings.md",
     "Core stories/Covenant.md",
     "Core stories/Hospital.md",
@@ -266,7 +272,6 @@
     "Core stories/READMECore stories.md",
     "Places/Needs/_Index_of_Needs.md",
     "Places/Regions/_Index_of_Regions.md",
-    "Places/_Index_of_Places.md",
     "Places/Regions"
   ]
 }
