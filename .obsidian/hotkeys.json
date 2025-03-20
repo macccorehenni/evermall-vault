@@ -1,0 +1,20 @@
+{
+  "obsidian-quiet-outline:next-heading": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "PageDown"
+    }
+  ],
+  "obsidian-quiet-outline:prev-heading": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "PageUp"
+    }
+  ]
+}

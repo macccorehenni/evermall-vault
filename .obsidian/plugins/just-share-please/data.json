@@ -1,0 +1,14 @@
+{
+  "url": "https://jsp.ellpeck.de",
+  "shared": [
+    {
+      "id": "d55f5b44",
+      "password": "3adfa2064beeb7a1a7dccbfb21bb8f35",
+      "path": "Core stories/Covenant.md"
+    }
+  ],
+  "stripFrontmatter": true,
+  "includeNoteName": false,
+  "unshareDeletedFiles": true,
+  "autoUpdateShares": true
+}

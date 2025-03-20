@@ -1,0 +1,141 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1742425403406,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1742425456409,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1742425504791,
+              "path": "Core stories/Core stories.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1742425504791,
+              "path": "Core stories/Beginnings.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1742425504791,
+              "path": "Core stories/Covenant.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1742425504791,
+              "path": "Core stories/Hospital.md",
+              "subpath": "#^-"
+            }
+          ],
+          "title": "Core stories"
+        },
+        {
+          "type": "group",
+          "ctime": 1742425456409,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1742425522246,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1742425526808,
+                  "path": "Places/Needs/Needs.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1742425526808,
+                  "path": "Places/Needs/City Hall.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1742425526808,
+                  "path": "Places/Needs/Hospital.md",
+                  "subpath": "#^-"
+                }
+              ],
+              "title": "Needs"
+            },
+            {
+              "type": "group",
+              "ctime": 1742425522246,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1742425531262,
+                  "path": "Places/Regions/Outer Bends.md",
+                  "subpath": "#^-"
+                }
+              ],
+              "title": "Regions"
+            },
+            {
+              "type": "file",
+              "ctime": 1742425522246,
+              "path": "Places/Places.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1742425522246,
+              "path": "Places/Tree of Life.md",
+              "subpath": "#^-"
+            }
+          ],
+          "title": "Places"
+        },
+        {
+          "type": "group",
+          "ctime": 1742425456409,
+          "items": [],
+          "title": "Tags"
+        },
+        {
+          "type": "file",
+          "ctime": 1742425456409,
+          "path": "Keyboard Shot cuts.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1742425456409,
+          "path": "README.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1742425456409,
+          "path": "SCP-3008 - SCP Foundation.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1742425456409,
+          "path": "Timeline.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1742425456410,
+          "path": "Vault.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1742425456409,
+          "path": "Timeline.md",
+          "subpath": "#^-"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}

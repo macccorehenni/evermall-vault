@@ -1,0 +1,21 @@
+{
+  "delay": 550,
+  "key": "Shift",
+  "shortcuts": [
+    {
+      "command": "command-palette:open",
+      "key": "Alt",
+      "lastKeyUpTime": 0
+    },
+    {
+      "command": "app:open-settings",
+      "key": "Shift",
+      "lastKeyUpTime": 0
+    },
+    {
+      "command": "make-md:mk-blink",
+      "key": "Tab",
+      "lastKeyUpTime": 0
+    }
+  ]
+}

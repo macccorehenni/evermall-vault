@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Fancy-a-Story",
+  "interfaceFontFamily": "Bahnschrift",
+  "theme": "moonstone",
+  "accentColor": "#efb9ea",
+  "showRibbon": true,
+  "enabledCssSnippets": [
+    "custom"
+  ]
+}

@@ -1,0 +1,427 @@
+{
+  "workspaces": {
+    "Writing": {
+      "main": {
+        "id": "2a9cd2776903e5f1",
+        "type": "split",
+        "children": [
+          {
+            "id": "097bc71693ff532c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "eea149fe149fc650",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Keyboard Shot cuts.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Keyboard Shot cuts"
+                }
+              },
+              {
+                "id": "818256141546743b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Keyboard Shot cuts.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Keyboard Shot cuts"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "81a8ee9fa9a7cf28",
+        "type": "split",
+        "children": [
+          {
+            "id": "322c2b8dcad366c4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "451e4a035f2dd528",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "7bbce45829c7fb3f",
+                "type": "leaf",
+                "state": {
+                  "type": "mk-path-view",
+                  "state": {},
+                  "icon": "layout-grid",
+                  "title": "Navigator"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 332.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "bc682153a3895cf4",
+        "type": "split",
+        "children": [
+          {
+            "id": "dc43cdfeecc85940",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d7b82054e257876c",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "quiet-outline",
+                  "state": {},
+                  "pinned": true,
+                  "icon": "lines-of-text",
+                  "title": "Quiet Outline"
+                }
+              },
+              {
+                "id": "5c78e62e7e2847d0",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Keyboard Shot cuts.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Keyboard Shot cuts"
+                }
+              },
+              {
+                "id": "56d5894bfd6332df",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Keyboard Shot cuts.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from Keyboard Shot cuts"
+                }
+              },
+              {
+                "id": "dcaffdc340912f6c",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "c6c17392ec787e08",
+                "type": "leaf",
+                "state": {
+                  "type": "juggl_nodes",
+                  "state": {},
+                  "icon": "ag-node-list",
+                  "title": "Juggl nodes"
+                }
+              },
+              {
+                "id": "8898503ca413ac65",
+                "type": "leaf",
+                "state": {
+                  "type": "juggl_style",
+                  "state": {},
+                  "icon": "ag-style",
+                  "title": "Juggl style"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian42-brat:BRAT": false,
+          "command-palette:Open command palette": false,
+          "cmdr:Commander: Toggle sidebars": true,
+          "auto-moc:AutoMOC": false,
+          "color-cycler:Cycle accent color": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "818256141546743b",
+      "mtime": "2025-03-12T23:29:54-07:00"
+    },
+    "No chrome": {
+      "main": {
+        "id": "2a9cd2776903e5f1",
+        "type": "split",
+        "children": [
+          {
+            "id": "097bc71693ff532c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "eea149fe149fc650",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Keyboard Shot cuts.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Keyboard Shot cuts"
+                }
+              },
+              {
+                "id": "818256141546743b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Keyboard Shot cuts.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Keyboard Shot cuts"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "81a8ee9fa9a7cf28",
+        "type": "split",
+        "children": [
+          {
+            "id": "322c2b8dcad366c4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "451e4a035f2dd528",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "7bbce45829c7fb3f",
+                "type": "leaf",
+                "state": {
+                  "type": "mk-path-view",
+                  "state": {},
+                  "icon": "layout-grid",
+                  "title": "Navigator"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 332.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "bc682153a3895cf4",
+        "type": "split",
+        "children": [
+          {
+            "id": "dc43cdfeecc85940",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d7b82054e257876c",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "quiet-outline",
+                  "state": {},
+                  "pinned": true,
+                  "icon": "lines-of-text",
+                  "title": "Quiet Outline"
+                }
+              },
+              {
+                "id": "5c78e62e7e2847d0",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Keyboard Shot cuts.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Keyboard Shot cuts"
+                }
+              },
+              {
+                "id": "56d5894bfd6332df",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Keyboard Shot cuts.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from Keyboard Shot cuts"
+                }
+              },
+              {
+                "id": "dcaffdc340912f6c",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "c6c17392ec787e08",
+                "type": "leaf",
+                "state": {
+                  "type": "juggl_nodes",
+                  "state": {},
+                  "icon": "ag-node-list",
+                  "title": "Juggl nodes"
+                }
+              },
+              {
+                "id": "8898503ca413ac65",
+                "type": "leaf",
+                "state": {
+                  "type": "juggl_style",
+                  "state": {},
+                  "icon": "ag-style",
+                  "title": "Juggl style"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian42-brat:BRAT": false,
+          "command-palette:Open command palette": false,
+          "cmdr:Commander: Toggle sidebars": true,
+          "auto-moc:AutoMOC": false,
+          "color-cycler:Cycle accent color": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "818256141546743b",
+      "mtime": "2025-03-12T23:30:15-07:00"
+    }
+  },
+  "active": "Writing"
+}

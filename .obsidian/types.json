@@ -1,0 +1,9 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "spawned": "text",
+    "from_perspective": "multitext"
+  }
+}

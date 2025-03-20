@@ -1,0 +1,11 @@
+{
+  "showRibbonButton": true,
+  "linkToHeading": true,
+  "linkWithAlias": true,
+  "importAsList": "DISABLE",
+  "orderedListSeparator": ".",
+  "ignoredFolders": "",
+  "linkingMentionsNotice": true,
+  "noNewLinksNotice": true,
+  "newLinksAddedNotice": false
+}
